@@ -237,7 +237,7 @@ class Zoo {
 }
 
 
-public class Main {
+public class Oop {
     public static void main(String[] args) {
         Zoo zoo = new Zoo();
 
